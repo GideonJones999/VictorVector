@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jonesgid000\documents\visual studio 2017\projects\victorvector\victorvector\source.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  victorVector.vcxproj -> C:\Users\jonesgid000\documents\visual studio 2017\Projects\victorVector\Debug\victorVector.exe
+  victorVector.vcxproj -> C:\Users\jonesgid000\documents\visual studio 2017\Projects\victorVector\Debug\victorVector.pdb (Partial PDB)
